@@ -50,13 +50,9 @@ img:hover {
 
 
 
-.row {
-  display: flex;
-}
-
 .column {
-  flex: 33.33%;
-  padding: 5px;
+  float: left;
+  width: 30%;
 }
 
 /* create your tile classes! we recommend .small .med .large */
